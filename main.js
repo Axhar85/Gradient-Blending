@@ -40,6 +40,7 @@
      }
  })
 
+ const haeding = document.querySelector(".container h1")
  const morning = document.getElementById("morning")
  const evening = document.getElementById("evening")
  const night = document.getElementById("night")
@@ -47,14 +48,17 @@
  // onclick morning
  morning.addEventListener("click", function(event){
      granimInstance.changeState('default-state')
+     haeding.innerHTML="Morning"
  })
 
   // onclick evening
   evening.addEventListener("click", function(event){
     granimInstance.changeState('evening-state')
+    haeding.innerHTML="Evening"
 })
 
 // onclick night
 night.addEventListener("click", function(event){
     granimInstance.changeState('dark-state')
+    haeding.innerHTML="Night"
 })
