@@ -12,8 +12,12 @@
      states:{
          "default-state":{
             gradients:[
-                ['#DAE2F8','#DAE2F8']
-            ]
+                ['#DAE2F8','#DAE2F8'],
+                ['#e35d5b','#f0cb35'],
+                ['#0F2027', '#8E9EAB']
+            ],
+            transitionSpeed: 4000,
+            loop: true,
          }
      }
  })
