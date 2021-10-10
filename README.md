@@ -3,6 +3,8 @@
 
 <p>
   <img alt="JavaScript" src="https://github.com/aleen42/badges/raw/master/src/javascript.svg" />
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
  
 </p>
 
