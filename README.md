@@ -13,5 +13,5 @@
 > Create a Color Gradient Blending app with HTML, CSS and Javascript.<br> Also deployed on Heroku.
 
 
-### ✨ [Live demo]()
+### ✨ [Live demo](https://6162cf35a4b2fce346d1918f--pedantic-morse-9fa88d.netlify.app/)
 
